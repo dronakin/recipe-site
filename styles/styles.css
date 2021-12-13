@@ -1,0 +1,25 @@
+/* Styles.css */
+
+/* div {
+    color: white;
+    background-color: red;
+}
+
+p {
+    color: red;
+}
+
+ul {
+    color:black;
+    align-items: auto;
+    border: 10px solid;
+    border-image-slice: 1;
+    border-width: 5px;
+    border-image-source: linear-gradient(to top left, #743ad5, #d53a9d);
+} */
+
+img {
+    border-radius: 14px;
+    max-width: 25%;
+    height: auto;
+}
